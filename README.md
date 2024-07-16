@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Viiiikedy
+- 👋 Hi, I’m @Evelyn
 - 👀 I’m interested in Full-Stack Development and Game Design
 - 🌱 I’m currently learning SDE and Queant Interview Questions
 - 💞️ I’m looking to collaborate on more interesting projects
